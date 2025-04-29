@@ -25,3 +25,4 @@ Proiectul include:
 | SNN (simplu)  |   86.2%    | 120 secunde    |
 | SNN (CNN)     |   88.5%    | 180 secunde    |
 +---------------+------------+----------------+
+
