@@ -25,3 +25,15 @@ Proiectul include:
 | SNN (CNN)     |   88.5%    | 180 secunde    |
 
 
+---
+## Instalare
+
+```bash
+pip install snntorch torchvision matplotlib
+```
+
+## Utilizare
+
+Rulează notebook-ul pentru antrenarea modelului
+
+Vizualizează rezultatele și comparația cu ANN
