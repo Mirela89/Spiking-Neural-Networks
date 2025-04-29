@@ -15,10 +15,6 @@ Proiectul include:
 
 ---
 
-## Instalare
-
-```bash
-pip install snntorch torchvision matplotlib
 
 ## Rezultate
 
