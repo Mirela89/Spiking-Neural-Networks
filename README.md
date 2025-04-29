@@ -18,11 +18,6 @@ Proiectul include:
 
 ## Rezultate
 
-Model:  
-- **ANN**: Acuratețe = 86.5%, Timp Antrenare = 30s  
-- **SNN (simplu)**: Acuratețe = 86.2%, Timp Antrenare = 120s  
-- **SNN (CNN)**: Acuratețe = 88.5%, Timp Antrenare = 180s  
-
 |     Model     | Acuratețe  | Timp Antrenare |
 |---------------|------------|----------------|
 | ANN           |   86.5%    | 30 secunde     |
